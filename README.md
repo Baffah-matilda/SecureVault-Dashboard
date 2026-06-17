@@ -48,7 +48,7 @@ node ./scripts/validateData.js
 
 Pre-Submission Gatekeeper Checklist
 - Repository is Public.
-- Git history shows incremental progress (no single huge “upload” commit).
+- Git history shows incremental progress.
 - The README is replaced with professional project docs (this file).
 - Design file link is included and set to public view.
 - App runs in Incognito and shows no console errors.
