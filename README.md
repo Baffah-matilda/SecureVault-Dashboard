@@ -9,7 +9,7 @@ Design File
 Setup
 1. Clone the repo and install:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Baffah-matilda/SecureVault-Dashboard
 cd securevault-dashboard
 npm install
 ```
