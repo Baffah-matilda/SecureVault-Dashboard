@@ -27,8 +27,7 @@ Tech Stack
 - Vite
 - Vanilla CSS (no external UI frameworks)
 
-Data
-- The app uses `src/data/data.json`. Do not change the JSON structure; you may add additional nodes to test performance.
+
 
 Recursive Strategy
 - The UI renders the directory tree and file lists using a recursive traversal function:
@@ -46,15 +45,5 @@ Validation
 node ./scripts/validateData.js
 ```
 
-Pre-Submission Gatekeeper Checklist
-- Repository is Public.
-- Git history shows incremental progress.
-- The README is replaced with professional project docs (this file).
-- Design file link is included and set to public view.
-- App runs in Incognito and shows no console errors.
-- No restricted UI libraries used.
-
-Contact
-- For questions about the implementation or to request a walkthrough, open an issue in the repository.
 
 [Environment]::SetEnvironmentVariable('PATH', $env:PATH + ';C:\Program Files\Git\cmd', 'User')
